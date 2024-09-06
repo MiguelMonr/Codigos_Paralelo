@@ -1,0 +1,6 @@
+Vamos empezar a usar openMP
+
+Lo que hace C++ es poder trabajar con las clases
+
+Conceptos basicos: 
+
